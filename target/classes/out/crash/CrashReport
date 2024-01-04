@@ -1,0 +1,13 @@
+
+Flag 0: function.
+Flag 5: if.
+[TARGET] Catch h!
+Flag 4: if.
+[TARGET] Catch he!
+Flag 3: if.
+[TARGET] Catch hel!
+Flag 2: if.
+[TARGET] Catch hell!
+Flag 1: if.
+Exception in thread "main" java.lang.Exception: [TARGET] Hello! Find a bug!
+	at edu.nju.isefuzz.trgt.Target1.main(Target1.java:32)
